@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act ordaining some horsemen to be levied out of the several shires of this kingdom</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58580</idno>
+            <idno type="STC">Wing S1147</idno>
+            <idno type="STC">ESTC R6370</idno>
+            <idno type="EEBO-CITATION">13704083</idno>
+            <idno type="OCLC">ocm 13704083</idno>
+            <idno type="VID">101458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101458)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act ordaining some horsemen to be levied out of the several shires of this kingdom</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Edenburgh, the seventh day of June 1679.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military law --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Militia --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  Edinburgh --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101458:1"/>
+            <!-- PDF PAGE 18 -->
+            <head>ACT, Ordaining ſome Horſemen to be Levied out of the ſeveral Shires of this Kingdom.</head>
+            <opener>
+               <dateline>Edinburgh,<date>the eighteenth day of <hi>April, 1689.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THe Meeting of the Eſtates finding it neceſſary, that this Kingdom be put in a poſture of Defence, for Security thereof, alſwel againſt the danger of Invaſion from Abroad, as any Inteſtine Trouble that may fall out therein; And for that effect, that a competent number of Forces be raiſed, and keeped up within the ſame; Therefore they Ordain, the number of Horſemen aftermen<g ref="char:EOLhyphen"/>tioned, to be Levied and Raiſed from the Shires of this Kingdom, which are lyable, and have been in uſe to Out-reik Horſes, being the fourth part of their proportions, contained in the 27 <hi>Act</hi> of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> 1663. as follows, <hi>viz.</hi> From the Shires of <hi>Roxburgh</hi> and <hi>Selkirk</hi> thirty ſeven Horſes; From the Shire of <hi>Berwick</hi> eighteen Horſes and the half of an Horſe; From the Shire of <hi>Haddingtoun</hi> eighteen and an half, From the Shire of <hi>Edinburgh</hi> eighteen and an half; From the Shire of <hi>Peebles</hi> ſeven and the fourth part of an Horſe; From the Shire of <hi>Linlithgow</hi> ten, and the half of an Horſe; From the Shire of <hi>Dumfreis</hi> twenty two; From the Shire of <hi>VVigtoun</hi> and Stewattry of <hi>Kirkcudbright</hi> twenty two; From the Shires of <hi>Air</hi> and <hi>Renfrew,</hi> fourty four; From the Shire of <hi>Lanerk,</hi> thirty ſeven; From the Shires of <hi>Stirling</hi> and <hi>Clackmannan,</hi> twenty two; From the Shires of <hi>Fife</hi> and <hi>Kinroſs;</hi> fourty four, From the Shire of <hi>Perth,</hi> fourty four; From the Shire of <hi>Forfar,</hi> twenty five Horſes and three fourth parts of an Horſe; From the Shire of <hi>Kincardin</hi> and <hi>Mariſchals</hi> part of <hi>Aberdenes</hi> Shire, eighteen Horſe and an half; From the Shire of <hi>Bamff,</hi> and <hi>Errols</hi> part of the Shire of <hi>Aberdene,</hi> fourty four; From the Shires of <hi>Elgin, Nairn,</hi> and this ſide of <hi>Neſs,</hi> twenty two; From the Earl of <hi>Seaforth,</hi> and Lord <hi>Lovat</hi> their Diviſion of <hi>Inverneſs,</hi> twenty two; From the Shires of <hi>Sutherland</hi> and <hi>Caithneſs,</hi> and the reſt of <hi>Inverneſs,</hi> twenty two Horſes. And the Eſtates Do Ordain and Require, the Commiſſioners of the Militia, and the Leaders of the Militia Horſes in the ſaids Shires, to meet at the Head-Burghs of the ſeveral Shires, <hi>viz.</hi> Theſe on this ſide of the <hi>North-Water-Bridge,</hi> upon the twenty fifth day of <hi>April</hi> inſtant; And theſe benorth the ſaid <hi>Bridge,</hi> upon the ſecond day of <hi>May</hi> next: And appoints the ſeveral Sheriff-Clerks to Conveen them to that effect: And Ordains the ſaids Commiſſioners and Leaders, being mett, to Proportion, and cauſe to be Outreiked, their reſpective numbers of Horſes above-expreſt, according to the Rule of the Militia, with ten days Proviſion, and to appoint the Frac<g ref="char:EOLhyphen"/>tions to be paid in to the Leaders within fourty eight hours after the Caſt ſhall be made, and in caſe of refuſal or delay, to appoint the Commanding Officer to quarter upon the Deficients, and to cauſe deliver the Horſemen Outreiked, to ſome of the Officers who ſhall be appointed to receive and Com<g ref="char:EOLhyphen"/>mand them, at the Head-Burgh of the Shire upon the days following, <hi>viz.</hi> For theſe Shires on this ſide of the ſaid <hi>North-Water-bridge,</hi> on the ſecond day of <hi>May</hi> next; And theſe be-north the ſaid <hi>Bridge,</hi> upon the ninth day of <hi>May:</hi> And the Eſtates do Nominat and Appoint Major <hi>Hugh Buntine,</hi> and ſuch other perſons as ſhall be Deputed by him to Muſter the ſaid Horſemen, and to ſee that the Horſes be ſufficient, each Horſe worth at leaſt ten Pound Sterling, and the Ryders and Horſes ſufficiently pro<g ref="char:EOLhyphen"/>vided with Arms and Furniture, to the value of five Pound Sterling. And it is hereby Declared, That the ſaid Horſemen ſhall be taken into the Kings Pay, according to the Eſtabliſhment of this Kingdom, after expiring of the ten days, for which they are appointed to be provided by the Out<g ref="char:EOLhyphen"/>reikers, as ſaid is. And Ordains theſe Preſents to be Publiſhed at the Mercat-Croſs of <hi>Edinburgh;</hi> and likewiſe appoints the Sheriff-Clerks of the ſeveral Shires to cauſe Publiſh the ſame at the Mer<g ref="char:EOLhyphen"/>cat-Croſſes of the Head Burghs of the reſpective Shires, that none may pretend Ignorance.</p>
+            <closer>
+               <signed>Ex<g ref="char:EOLhyphen"/>tracted out of the Records of the Meeting of he Eſtates, by me <hi>Al. GIBSON,</hi> Cls.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Prined in the Year, <hi>1689.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
